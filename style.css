@@ -1,0 +1,22 @@
+h1 {
+    font-size: 16px;
+    font-family:Arial;
+}
+h2 {
+    font-size: 32px;
+    font-family:serif;
+}
+.image-border {
+    border: 2px dotted green;
+}
+.image-border1 {
+    border: 2px dashed blue;
+}
+body {
+    background-color: #32C871;
+}
+button {
+    border-radius: 16px;
+    border-color: cyan;
+    box-shadow: 3px 3px 5px black;
+}
