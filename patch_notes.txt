@@ -1,0 +1,4 @@
+04/08/25 - 3pm
+added more images
+added image page system. at the bottom of the website there is a page selector.
+added information pages to more images
